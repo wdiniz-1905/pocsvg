@@ -1,0 +1,39 @@
+.SVG{
+  border:3px red solid;
+  margin-left: 550px;
+}
+
+
+.DIV{
+  margin-left: 150px;
+  margin-top: 50px;
+  border:3px red solid
+  
+}
+
+.foreignObject{
+  width: 400px;
+  height: 2000px;
+
+
+}
+
+.SVGtitle{
+
+  margin-left: 800px;
+  font-size: large;
+}
+button{
+margin-left: 90px;
+
+}
+
+.Table{
+
+  border:3px red solid;
+  margin-left: 0px;
+  margin-top: -610px;
+  width: 400px;
+  height: 300px;
+
+}
